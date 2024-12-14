@@ -1,5 +1,4 @@
-This is a simple python API for practicing
-如何使用该API
+
 1.下载git(https://git-scm.com/)
 2.postman(https://www.postman.com/downloads/)
 3.新建文件,打开控制台,定位到该文件夹路径
